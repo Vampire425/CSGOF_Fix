@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647519155 source:d:\proc0der\csgo fix v0.1\main.cpp
+	<iostream>
+	<windows.h>
+	<system_error>
+
